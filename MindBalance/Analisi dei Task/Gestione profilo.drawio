@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Pagina-1" id="f6162vzDSj52v8qoLbpU">
+    <mxGraphModel dx="1500" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0" adaptiveColors="simple">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="svivEVE3387kIESnXB9F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startFillColor=#000000;endFillColor=#000000;strokeColor=#09555B;labelBackgroundColor=none;fontColor=default;curved=1;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-2" target="svivEVE3387kIESnXB9F-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-2" target="svivEVE3387kIESnXB9F-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(17, 13, 13));&quot;&gt;Gestione Profilo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="424" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-41" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#09555B;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="258" as="sourcePoint" />
+            <mxPoint x="694" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-13" target="svivEVE3387kIESnXB9F-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-13" target="svivEVE3387kIESnXB9F-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-13" target="svivEVE3387kIESnXB9F-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-13" value="&lt;font color=&quot;#110d0d&quot;&gt;Selezionare la sezione Profilo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="519" y="229" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-42" value="&lt;font color=&quot;#110d0d&quot;&gt;Aver effettuato il login alla piattaforma&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="336" y="229" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-52" value="&lt;font color=&quot;#110d0d&quot;&gt;Selezionare un&#39;immagine di profilo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="385" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-55" target="svivEVE3387kIESnXB9F-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-55" target="svivEVE3387kIESnXB9F-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-55" target="svivEVE3387kIESnXB9F-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-55" value="&lt;font color=&quot;#110d0d&quot;&gt;Scelta&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="904" y="385" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-57" target="svivEVE3387kIESnXB9F-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-57" target="svivEVE3387kIESnXB9F-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#09555B;fontColor=#1A1A1A;" edge="1" parent="1" source="svivEVE3387kIESnXB9F-57" target="svivEVE3387kIESnXB9F-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-57" value="&lt;font color=&quot;#110d0d&quot;&gt;Accedere alla sezione &quot;Modifica profilo&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="519" y="385" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-59" value="&lt;font color=&quot;#110d0d&quot;&gt;Nome&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="416" y="525" width="84" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-61" value="&lt;font color=&quot;#110d0d&quot;&gt;Email&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="646" y="527" width="103" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-63" value="&lt;font color=&quot;#110d0d&quot;&gt;Cognome&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="527" y="525" width="104" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-65" value="&lt;font color=&quot;#110d0d&quot;&gt;Nome&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="801" y="523" width="84" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-66" value="&lt;font color=&quot;#110d0d&quot;&gt;Email&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="525" width="103" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="svivEVE3387kIESnXB9F-67" value="&lt;font color=&quot;#110d0d&quot;&gt;Cognome&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="912" y="523" width="104" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
